@@ -1,12 +1,19 @@
 # Insurance-Coverage-and-Usage-in-Healthcare-Analyis
- 
-1.Introduction
+This analysis aims to explore the patterns of health insurance coverage, the influence of socioeconomic factors on insurance access, and how insurance status affects healthcare utilization, particularly hospital visits.
+
+### Table of Contents
+- [Project Overview](#project-overview)
+- [Problem Statement](#problem-statement)
+- [Objectives](#objectives)
+- [Scope Of Work](#scope-of-work)
+- [Assumption and Key Insights](#assumptions-and-key-insights)
+- [Recommendations](#reccommendations)
+
+## Project Overview
 Access to healthcare is a fundamental human right, yet significant disparities remain, particularly regarding health insurance coverage. Health insurance plays a crucial role in ensuring individuals can afford and access necessary medical services without facing catastrophic financial burdens. Despite its importance, many individuals remain uninsured, often due to socioeconomic barriers such as employment status and income levels. This analysis aims to explore the patterns of health insurance coverage, the influence of socioeconomic factors on insurance access, and how insurance status affects healthcare utilization, particularly hospital visits. By analyzing these dynamics, we can provide meaningful insights to inform stakeholders in developing strategies to improve health insurance penetration and promote healthcare equity.
 
-Problem Statement
+## Problem Statement
 The project focuses on addressing critical questions regarding healthcare access through insurance, specifically:
-
-Key Metrics Tracked:
 
 Percentage of individuals with health insurance.
 
@@ -14,7 +21,7 @@ Influence of employment and income on insurance access.
 
 Hospital visit frequency differences between insured and uninsured individuals.
 
-Objectives:
+## Objectives:
 The goal of this project is to deeply analyze the factors influencing health insurance coverage and hospital visit behaviors among different socioeconomic groups. Specifically, the project aims to:
 
 1.Measure the proportion of individuals with and without health insurance.
@@ -25,7 +32,7 @@ The goal of this project is to deeply analyze the factors influencing health ins
 
 Provide actionable insights to healthcare policymakers and stakeholders to design targeted interventions that improve healthcare access and equity.
 
-Scope of Work
+## Scope of Work
 This project will involve:
 
 Cleaning and preprocessing the healthcare survey dataset.
@@ -40,7 +47,7 @@ Summarizing key findings and providing data-driven recommendations.
 
 
 
-### Assumptions
+## Assumptions and Key Insights
 Data Limitations: 
 
 o The dataset may not represent the entire population, potentially skewing results.
@@ -57,7 +64,7 @@ Unmeasured Variables:
 
 o Factors like regional healthcare policies and cultural differences were not accounted for.
 
-### Insights
+## Key Insights  Insights
 
 1. Percentage of individuals with health insurance: 57.96% of the individuals are insured which is a sightly higher number than those not insured.
 
@@ -67,7 +74,7 @@ o Factors like regional healthcare policies and cultural differences were not ac
 
 4. Assess the impact of health insurance on hospital visit frequency; Uninsured people visit hospitals more often than the insured, likely due to lack of access to preventive care, leading to more emergency or severe cases.
 
-###Other areas analysed were;
+# Other areas analysed were;
 
 5. The age and gender with frequency of hospital visits; More females visited the hospitals and the hospital visits decreased with increase n age.
 
@@ -76,31 +83,45 @@ o Factors like regional healthcare policies and cultural differences were not ac
 7. Marital status against insured and uninsured; Most married people and divorced had insurance while most sing people did not have.
 
 ### Recommendations
-1. 57.96% of individuals are insured
 
-Raise awareness to close the gap between insured and uninsured.
-Promote affordable insurance options to increase coverage.
+1. 57.96% of individuals are insured :
+   
+o Raise awareness to close the gap between insured and uninsured.
+
+o Promote affordable insurance options to increase coverage.
+
 2. Income vs. Insurance Access
 
-Introduce subsidized insurance plans for low-income groups.
-Educate low-income communities on the long-term benefits of insurance.
+o Introduce subsidized insurance plans for low-income groups.
+
+o Educate low-income communities on the long-term benefits of insurance.
+
 3. Employment vs. Insurance Access
 
-Encourage employer-based insurance schemes.
-Create insurance access points for the unemployed, such as community programs or government support.
+o Encourage employer-based insurance schemes.
+
+o Create insurance access points for the unemployed, such as community programs or government support.
+
 4. Insurance vs. Hospital Visit Frequency
 
-Expand access to preventive care for the uninsured.
-Promote insurance enrollment to reduce emergency hospital visits.
+o Expand access to preventive care for the uninsured.
+
+o Promote insurance enrollment to reduce emergency hospital visits.
+
 5. Age & Gender vs. Hospital Visits
 
-Encourage older adults to maintain regular hospital visits.
-Strengthen health programs targeting younger women to sustain positive health-seeking behavior.
+o Encourage older adults to maintain regular hospital visits.
+
+o Strengthen health programs targeting younger women to sustain positive health-seeking behavior.
+
 6. Age & Gender vs. Cancer Screening
 
-Promote early screening among younger age groups and men.
-Continue targeted awareness for older women.
+o Promote early screening among younger age groups and men.
+
+o Continue targeted awareness for older women.
+
 7. Marital Status vs. Insurance
 
-Increase insurance awareness among single individuals.
-Partner with schools, workplaces, and youth groups to boost insurance uptake.
+o Increase insurance awareness among single individuals.
+
+o Partner with schools, workplaces, and youth groups to boost insurance uptake.
